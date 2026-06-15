@@ -62,7 +62,6 @@ This project aims to automate malaria detection using AI to improve speed, accur
 
 ## 💻 How to Run
 ### 1️⃣ Install dependencies
-```bash
 pip install -r requirements.txt
 ### 2️⃣ Train the model 
 python main.py 
